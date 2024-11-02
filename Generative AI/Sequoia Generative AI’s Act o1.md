@@ -14,22 +14,9 @@
 - What happens when the model can think for hours? Days? Decades? Will we solve the Riemann Hypothesis? Will we answer Asimov’s last question?
     
 - Agentic applications
-    
-
-- Harvey: AI lawyer
-    
-- Glean: AI work assistant 
-    
-- Factory: AI software engineer
-    
-- Abridge: AI medical scribe
-    
-- XBOW: AI pentester 
-    
-- Sierra: AI customer support agent
-    
-
-
-
-**
-
+    - Harvey: AI lawyer
+    - Glean: AI work assistant 
+    - Factory: AI software engineer
+    - Abridge: AI medical scribe
+    - XBOW: AI pentester 
+    - Sierra: AI customer support agent

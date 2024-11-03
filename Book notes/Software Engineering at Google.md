@@ -1,3 +1,4 @@
+# Software Engineering at Google
 
 - Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance).
 
@@ -29,12 +30,13 @@
 - The current DevOps philosophy toward tech productivity is explicit about these sorts of goals: get feedback as early as possible, test as early as possible and think about security and production environments as early as possible. This is all bundled into the idea of "shifting left" in the developer workflow; the earlier we find a problem, the cheaper it is to fix it.
 
 - A good postmortem should include the following:
-1. A brief summary of the event 
+
+1. A brief summary of the event
 2. A timeline of the event, from discovery through investigation to resolution
-3. The primary cause of the event 
+3. The primary cause of the event
 4. Impact and damage assessment
-5. A set of action items (with owners) to fix the problem immediately 
-6. A set of action items to prevent the event from happening again 
+5. A set of action items (with owners) to fix the problem immediately
+6. A set of action items to prevent the event from happening again
 7. Lessons learned
 
 - Admitting that you've made a mistake or you're simply out of your league can increase your status over the long run. In fact, the willingness to express vulnerability is an outward show of humility, it demonstrates accountability and the willingness to take responsibility, and it's a signal that you trust others' opinions. In return, people end up respecting your honesty and strength. Sometimes, the best thing you can do is just say, "I don't know"

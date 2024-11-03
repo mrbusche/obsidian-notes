@@ -12,16 +12,17 @@ https://www.honeycomb.io/resources/observability-for-llms
 - Finally, attempting to de-risk a product launch through early access programs or limited user testing can introduce bias and create a false sense of security. Early access programs and user testing often fail to capture the full range of user behavior and potential edge cases that arise in real-world usage with a wide range of users.
 
 - Put differently, you should be aware of the following things when building with LLMS:
-	- Failure will happen-it's a question of when, not if.
-	- Users will do things you can't possibly predict.
-	- You will ship a bug fix that breaks something else.
-	- You can't write unit tests for LLMS (or practice test-driven development).
-	- Early access programs won't really help you.
+
+  - Failure will happen-it's a question of when, not if.
+  - Users will do things you can't possibly predict.
+  - You will ship a bug fix that breaks something else.
+  - You can't write unit tests for LLMS (or practice test-driven development).
+  - Early access programs won't really help you.
 
 - By combining OpenTelemetry's automatic tracing instrumentation capabilities with manual instrumentation, you can capture everything you need to begin systematically analyzing user behavior. In this way, you can learn how user behavior impacts the results that a generative AI model will produce.
 
 - Simple LLM Call with a Static Prompt Some prompts are mostly static. That is, they might include user input and some additional info, but inputs are largely the same each time. For these cases, you just need three spans:
-	- The overall tracking span for all operations. This is important because it's the span you'll usually query for later on. It represents the end-to-end user experience of your feature that uses an LLM.
-	- A child span of the overall tracking span that tracks the call to an LLM (this can be done with automatic instrumentation).
-	- A child span of the overall tracking span that tracks any parsing or validation of outputs you do on LLM outputs.
+  - The overall tracking span for all operations. This is important because it's the span you'll usually query for later on. It represents the end-to-end user experience of your feature that uses an LLM.
+  - A child span of the overall tracking span that tracks the call to an LLM (this can be done with automatic instrumentation).
+  - A child span of the overall tracking span that tracks any parsing or validation of outputs you do on LLM outputs.
 - For many applications, these three spans will suffice for your observability needs

@@ -1,15 +1,15 @@
 https://www.manning.com/books/knowledge-graph-enhanced-rag
 through Chapter 3
 
-
 - A knowledge graph is a data structure that uses nodes to represent concepts and entities, and relationships to connect these nodes.
 
 - One problem with LLMs is that they are trained to give assertive and confident answers even when their answers might contain invalid information.
 
 - Limitations of LLMs
-	1. Bias in Responses: LLMs can sometimes generate biased responses, reflecting biases present in the training data.
-	2. Lack of Understanding and Context: LLMs, despite their complexity, do not truly understand the text. They process language based on patterns learned from data, which means they can miss nuances and contextual subtleties.
-	3. Vulnerability to Prompt Injection: LLMs are susceptible to prompt injection attacks, where malicious users craft inputs to manipulate the model into generating inappropriate, biased, or harmful responses. This vulnerability poses significant challenges for ensuring the security and integrity of LLM applications in real-world scenarios
+
+  1. Bias in Responses: LLMs can sometimes generate biased responses, reflecting biases present in the training data.
+  2. Lack of Understanding and Context: LLMs, despite their complexity, do not truly understand the text. They process language based on patterns learned from data, which means they can miss nuances and contextual subtleties.
+  3. Vulnerability to Prompt Injection: LLMs are susceptible to prompt injection attacks, where malicious users craft inputs to manipulate the model into generating inappropriate, biased, or harmful responses. This vulnerability poses significant challenges for ensuring the security and integrity of LLM applications in real-world scenarios
 
 - When using a vector index, the retriever method is often refered to as a approximate nearest neighbor (ANN) search. This is because the vector index doesn’t find the exact nearest neighbors, but it finds vectors that is very close to the nearest neighbor. This is a trade-off between speed and accuracy. The vector index is much faster than a brute-force search, but it’s not as accurate.
 

@@ -4,7 +4,7 @@ https://www.manning.com/books/architecture-modernization
 
 - As renowned product management expert and author Marty Cagan says, "If you're just using your engineers to code, you're only getting about half their value.... The best single source for innovation is your engineers"
 
-- Internal developer platforms (IDPs) are another crucial component to achieving IVSS. IDPs reduce the friction of building, deploying, and  supporting code by providing an exceptional developer experience (DX) through the use of concepts like paved roads/golden paths. This allows stream-aligned teams to focus on business outcomes without being bogged down by extraneous infrastructure-related activities and development friction.
+- Internal developer platforms (IDPs) are another crucial component to achieving IVSS. IDPs reduce the friction of building, deploying, and supporting code by providing an exceptional developer experience (DX) through the use of concepts like paved roads/golden paths. This allows stream-aligned teams to focus on business outcomes without being bogged down by extraneous infrastructure-related activities and development friction.
 
 - Modernization isn't just rewriting the old system with new technologies. It's an opportunity to completely rethink the UX, product functionality, business processes, and domain model and remove unneeded complexity.
 

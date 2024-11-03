@@ -1,25 +1,25 @@
-
-Open Talent
-John Winsor
+# Open Talent by John Winsor
 
 - The post-Covid era has been an even bigger black swan, one that calls into question all our assumptions about how the world is supposed to work. According to Taleb, black swan events contain three elements:
-	- The element of surprise, which catches everyone off guard
-	- Impacts and outcomes that are substantial, with potentially global repercussions
-	- The appearance of inevitability after the fact, given all the relevant signals and data
+
+  - The element of surprise, which catches everyone off guard
+  - Impacts and outcomes that are substantial, with potentially global repercussions
+  - The appearance of inevitability after the fact, given all the relevant signals and data
 
 - Leaders who want to change their own minds may want to consider an important reframing of recent events. The millions of dissatisfied employees who are joining the Great Resignation aren't rejecting work.
 - They are rejecting jobs that pay them less than they feel they are worth and that constrain their creativity and stifle their potential. They are looking for ways to do more while doing better for themselves. The organizations that have been experimenting with open talent strategies and outsidein innovation are capturing them and, as a result, continuing to push forward and succeed.
 
-- How to change your mind. 
+- How to change your mind.
 - Disruption offers new opportunities for grand change, especially since the supply of talent has already made the shift. Companies must begin to adapt to talent because talent is no longer adapting to corporations. Platforms fundamentally change how workers engage with their employers and vice versa, shifting the power structure so that talent has the edge. By removing the idea of a physical workspace, open talent is no longer hampered by office politics and can thrive, focused on the things that motivate people the most.
 
 - Companies that can move quickly enough to profit from change don't bog themselves down with a ton of bureaucracy when they set out to innovate. They don't micromanage the process from the top down, and they don't insist on owning all the means they employ to succeed. Their teams are light on their feet, have a sense of ownership over outcomes, and are empowered to make their own decisions and recruit all the help they need.
 
 - What Are the Goals of Your Center of Excellence?
 - A COE's overarching goal should be to take full advantage of all the talent opportunities that are available. Every organization is unique, but we suggest you start with these three principles:
-	- Understand your readiness. While many people inside your organization may be using open talent already, there can be, as we've seen, many blind spots and roadblocks when you try to institutionalize it. The better you understand your readiness, the better your chances of a successful adoption.
-	- Be prepared; things evolve rapidly. Understand that the ecosystem of open talent is quickly evolving, just as technology is. With the emergence of VDI (virtual desktop infrastructure), there has been a profusion of solutions to compliance concerns and security issues. These solutions dramatically remove the friction of adoption. A COE is necessary to stay on top of these changes and be ready to implement those that best address the needs of the organization.
-	- Fit your digital transformation to your talent strategy. In many companies, talent acquisition is siloed between HR, procurement, and innovation. The COE should digitally transform all these silos by using internal and external platforms.
+
+  - Understand your readiness. While many people inside your organization may be using open talent already, there can be, as we've seen, many blind spots and roadblocks when you try to institutionalize it. The better you understand your readiness, the better your chances of a successful adoption.
+  - Be prepared; things evolve rapidly. Understand that the ecosystem of open talent is quickly evolving, just as technology is. With the emergence of VDI (virtual desktop infrastructure), there has been a profusion of solutions to compliance concerns and security issues. These solutions dramatically remove the friction of adoption. A COE is necessary to stay on top of these changes and be ready to implement those that best address the needs of the organization.
+  - Fit your digital transformation to your talent strategy. In many companies, talent acquisition is siloed between HR, procurement, and innovation. The COE should digitally transform all these silos by using internal and external platforms.
 
 - Remember that open talent is about removing friction. It frees your people from the bureaucratic encumbrances that prevent them from moving faster than your competitors, from getting help from outsiders when they need it, and from capturing and applying the wisdom of crowds to the toughest problems. Companies that use those capabilities are like boxers, bobbing and weaving through punches, agilely sidestepping disruptions, and continually floating and testing new ideas and approaches.
 - Accordingly, when developing your open talent strategy, keep in mind the following elements: responsiveness, agility, speed, efficiency, commitment, and staying emergent. These are attributes as opposed to goals; think of them as benchmarks to guide your decisionmaking.

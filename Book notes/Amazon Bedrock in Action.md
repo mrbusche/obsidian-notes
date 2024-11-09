@@ -69,3 +69,5 @@ through Chapter 5
 - We set conversation.verbose = True enables detailed logging or output during the execution of the ConversationChain in LangChain. This means that when the predict method is called with the input “What is the best programming language?”, the ConversationChain will provide more detailed information about the process, such as the construction of the prompt that is sent to the language model, and potentially the reasoning behind the model's response.
 
 - embeddings, which are numerical representations that encode the semantic meaning of the input data.
+
+- OpenSearch's scalability and hybrid search capabilities make it well-suited for developing machine learning-augmented search experiences within the AWS ecosystem.

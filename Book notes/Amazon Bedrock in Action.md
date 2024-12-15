@@ -71,3 +71,5 @@ through Chapter 5
 - embeddings, which are numerical representations that encode the semantic meaning of the input data.
 
 - OpenSearch's scalability and hybrid search capabilities make it well-suited for developing machine learning-augmented search experiences within the AWS ecosystem.
+
+To create a dataset for fine-tuning on Amazon Bedrock, you should format your data as a JSON Lines (JSONL) file, with each line representing a single training sample and should contain both a 'prompt' and a 'completion' field.

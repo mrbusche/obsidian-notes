@@ -1,4 +1,4 @@
-through 3 chapters
+through 11 chapters, 8 and 9 have not been published
 
 We define effective platform engineering as a craft:
 - Composed of the architectural, engineering, and product delivery disciplines Applied by dedicated, development teams with broad domain knowledge and product ownership
@@ -50,3 +50,17 @@ While we have described the concept of a platform team so far, it is also essent
 - Complicated Subsystem Teams: These teams focus on highly specialized or technically complex areas of the system, requiring deep expertise that is difficult to distribute among other teams. They handle parts of the system that need particular attention due to their intricacy
 
 RE: Implementing org changes - more fundamentally, "I need the rest of the software delivery supply chain (IT Operations, Security, Compliance, Business Operations, et al.) to become as mature in engineering practice as software development."
+
+How do we ensure the integrity of those changes? We should require all our development teams to sign their commits automatically with a valid GPG key pair to do this. Our source code system that manages our Platform Code will enforce and verify that a valid developer key signs all code committed. Then, our dependencies and sign artifacts are pulled from a trusted registry that has already verified the integrity of the artifacts and dependencies. Lastly, at the end of our build process, the app team at PETech will sign the image they are releasing with their key (probably using a tool like Cosign or similar).
+
+You can learn about Software Supply Chain security in great detail by learning more about the projects within Sigstore and the OpenSSF.
+
+### Why observability matters
+As we have seen, good observability practices can increase the stability of a system by allowing the team supporting it to become aware of, diagnose, and fix issues quickly. It is also a powerful way to show value in any effort, proving to business stakeholders that any effort an engineering team takes can return value (customer-facing or not). This is because data can trump opinions on what is going well and what is not. True observability is more than just data and telemetry; it provides insights. To concretely define our usage of the term “observability:
+Observability is determining and explaining a software system's internal state and usefulness by gaining insight from its output data.
+
+Start with a simple system that evolves into a complex system.
+
+Deployment Frequency: Increasing the number of successful deployments daily was crucial for PETech to respond swiftly to market demands. A higher deployment frequency indicated a more agile and efficient development process.
+
+Additionally, PETech should consider employing GenAI to facilitate intelligent code reviews. The paper highlights the significance of incorporating AI into the code review process to enhance the quality and reliability of software. GenAI-powered code review tools can analyze changes, provide feedback on potential issues, and suggest improvements based on historical data and coding standards. By integrating these tools into their development workflow, PETech can accelerate the review process, ensure a higher standard of code quality, and create a culture of continuous learning and improvement among developers.
